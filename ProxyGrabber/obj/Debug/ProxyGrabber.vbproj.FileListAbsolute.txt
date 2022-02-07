@@ -1,0 +1,11 @@
+C:\Users\MONSTERMC\Desktop\New folder (2)\ProxyGrabber\bin\Debug\ProxyGrabber.exe.config
+C:\Users\MONSTERMC\Desktop\New folder (2)\ProxyGrabber\bin\Debug\ProxyGrabber.exe
+C:\Users\MONSTERMC\Desktop\New folder (2)\ProxyGrabber\bin\Debug\ProxyGrabber.pdb
+C:\Users\MONSTERMC\Desktop\New folder (2)\ProxyGrabber\obj\Debug\ProxyGrabber.vbprojAssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\New folder (2)\ProxyGrabber\obj\Debug\ProxyGrabber.Information.resources
+C:\Users\MONSTERMC\Desktop\New folder (2)\ProxyGrabber\obj\Debug\ProxyGrabber.MainForm.resources
+C:\Users\MONSTERMC\Desktop\New folder (2)\ProxyGrabber\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder (2)\ProxyGrabber\obj\Debug\ProxyGrabber.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder (2)\ProxyGrabber\obj\Debug\ProxyGrabber.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\New folder (2)\ProxyGrabber\obj\Debug\ProxyGrabber.exe
+C:\Users\MONSTERMC\Desktop\New folder (2)\ProxyGrabber\obj\Debug\ProxyGrabber.pdb
